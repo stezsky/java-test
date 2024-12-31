@@ -1,0 +1,11 @@
+--pull=false
+--bind
+--env https_proxy=http://proxycz.oskarmobil.cz:3128
+--env http_proxy=http://proxycz.oskarmobil.cz:3128
+--env HTTP_PROXY=http://proxycz.oskarmobil.cz:3128
+--env HTTPS_PROXY=http://proxycz.oskarmobil.cz:3128
+--env NO_PROXY=172.22.17.42
+--env http.proxyHost=proxycz.oskarmobil.cz
+--env http.proxyPort=3128
+--env https.proxyHost=proxycz.oskarmobil.cz
+--env https.proxyPort=3128
